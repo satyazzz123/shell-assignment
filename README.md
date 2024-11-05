@@ -1,5 +1,3 @@
-# Questions
-
 1. (output to terminal)Write a script to print:
 a. <username>@<hostname>:<your present working directory>
 2 Write a script
@@ -36,3 +34,5 @@ original file in it.
 12. Write a script which will search for .log files in a directory and zip all the log files and put
 it in /tmp.
 13. Write a shell script to print the count of files and subdirectories in the specified directory.
+
+
